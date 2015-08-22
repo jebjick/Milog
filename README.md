@@ -1,0 +1,5 @@
+sample-translator
+=================
+<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-translator" target="_blank"><img src="http://docs.telerik.com/platform/appbuilder/sample-apps/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>
+
+The Translator demo application allows you to translate text from and to a wide selection of languages. For more information please refer to the [sample documentation](http://docs.telerik.com/platform/appbuilder/sample-apps/translator).
